@@ -1,0 +1,10 @@
+{
+    "name": "node-api",
+    "version": "0.0.1",
+    "main": "src/server.js",
+    "dependencies": {
+        "body-parser": "latest",
+        "express": "latest",
+        "mongoose": "~3.6.13"
+    }
+}
